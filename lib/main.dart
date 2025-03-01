@@ -12,6 +12,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
+        
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
